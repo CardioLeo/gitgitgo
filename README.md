@@ -20,6 +20,10 @@
 # without that correct information in line 6. So until I can write an
 # appropriate conditional for the script I have commented line 7 out as well.
 #
+#I hope to improve this script over time so it accepts input like
+# the SSH or HTTPS of the github side of your repo.
+# One thing at a time. "Atomic commits."
+#
 #
 #
 # 
@@ -52,8 +56,8 @@
 #
 #
 #
-# If you're into bash scripting and git-hubbing,
+# [If you're into bash scripting and git-hubbing,
 # and you have to do a lot of it sometimes,
 # I made a hub-script for your bash-git.
 #
-# And now I should go to bed.
+# And now I should go to bed.]

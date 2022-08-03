@@ -7,6 +7,8 @@
 # Usage: gitgitgo
 #
 #
+#
+#
 # Read This First:
 #
 # I haven't got this script to the point where it runs all the commands which
@@ -17,6 +19,8 @@
 # Line 7, which will actually push up the code, would run an error message
 # without that correct information in line 6. So until I can write an
 # appropriate conditional for the script I have commented line 7 out as well.
+#
+#
 #
 # 
 # Tips for Beginners:
@@ -39,6 +43,17 @@
 # But perhaps this is only a note for a beginner. (Or is it?)
 #
 #
+#
+#
 # For any thoughts or concerns, you can reach me at:
 # CardioLeo@gmail.com, github.com/CardioLeo, or perilousresonance.wordpress.com/
 # The repo for this bash script is github.com:CardioLeo/gitgitgo.git
+#
+#
+#
+#
+# If you're into bash scripting and git-hubbing,
+# and you have to do a lot of it sometimes,
+# I made a hub-script for your bash-git.
+#
+# And now I should go to bed.

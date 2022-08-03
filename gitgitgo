@@ -18,30 +18,11 @@
 # without that correct information in line 6. So until I can write an
 # appropriate conditional for the script I have commented line 7 out as well.
 #
-# 
-# Tips for Beginners:
-# 
-# First, you will want to change the permissions of this script
-# by running the command "sudo chmod 744 gitgitgo". Otherwise,
-# it won't run.
-#
-# Second, you will want to place this script in a directory
-# that your "~/.profile" will refer to for bash scripts.
-# You may have to look this up for your particular distro.
-#
-# Third, you may actually just want to run this script for times
-# when you will have a number of repos to initalize all at once or
-# when you will have to do a number in a row, one after another.
-# If you don't have bulk needs at the moment, keep in mind
-# that there is value in the repetition and muscle memory,
-# in the familiarity with meanings, syntax, semantic and logic of commands -
-# value that we can miss when we use a script like this too often.
-# But perhaps this is only a note for a beginner. (Or is it?)
 #
 #
 # For any thoughts or concerns, you can reach me at:
 # CardioLeo@gmail.com, github.com/CardioLeo, or perilousresonance.wordpress.com/
-# The repo for this bash script is github.com:CardioLeo/gitgitgo.git
+# The repo and README for this script is at github.com:CardioLeo/gitgitgo.git
 
 
 #!/bin/bash
